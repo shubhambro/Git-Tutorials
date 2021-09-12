@@ -9,3 +9,4 @@ git commit -m "version 6"
 git status
 git push origin master   // if it does not work use next statement
 git push origin master --force
+to see the difference or changes... so use git diff filename.txt
