@@ -1,3 +1,11 @@
 This is another file need for software support.
 this is the fastest changes i wanted to be....
 bhai me toh change karunga
+Bhai change hoga let see...
+ im using steps
+ like git status
+git add .
+git commit -m "version 6"
+git status
+git push origin master   // if it does not work use next statement
+git push origin master --force
